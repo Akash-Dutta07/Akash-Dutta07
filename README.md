@@ -27,7 +27,7 @@ I enjoy solving problems through data storytelling and intelligent decision-maki
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/plotly/plotly.py/master/doc/_static/plotly_mark.png" alt="Plotly" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/AkashDuttaDev/assets/main/icons/plotly.png" alt="Plotly" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/>
 </p>
 
