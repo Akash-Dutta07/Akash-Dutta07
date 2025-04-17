@@ -8,14 +8,14 @@ I enjoy solving problems through data storytelling and intelligent decision-maki
 
 ---
 
-<h3 align="left">🧠 Programming Languages</h3>
-<p align="left">
+<h3 align="center">🧠 Programming Languages</h3>
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
 </p>
 
-<h3 align="left">📚 Libraries & Frameworks</h3>
-<p align="left">
+<h3 align="center">📚 Libraries & Frameworks</h3>
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
@@ -23,16 +23,16 @@ I enjoy solving problems through data storytelling and intelligent decision-maki
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="40" height="40"/>
 </p>
 
-<h3 align="left">📊 Data Visualization</h3>
-<p align="left">
+<h3 align="center">📊 Data Visualization</h3>
+<p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" alt="Plotly" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/>
 </p>
 
-<h3 align="left">🛠️ Tools & Platforms</h3>
-<p align="left">
+<h3 align="center">🛠️ Tools & Platforms</h3>
+<p align="center">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git Bash" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
@@ -43,15 +43,21 @@ I enjoy solving problems through data storytelling and intelligent decision-maki
 
 ---
 
-<h3 align="left">📈 GitHub Stats</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akash-Dutta07&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
+<h3 align="center">📈 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akash-Dutta07&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akash-Dutta07&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-Dutta07&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-<h3 align="left">📫 Connect with me</h3>
-<p align="left">
+<h3 align="center">📫 Connect with me</h3>
+<p align="center">
   <a href="https://linkedin.com/in/a-dutta-1b72132b8" target="blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
