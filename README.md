@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akash Dutta</h1>
-<h3 align="center">A data enthusiast from India who thrives on exploring data and deriving actionable insights to tell impactful stories.</h3>
+<h3 align="center">A data enthusiast who thrives on exploring data and deriving actionable insights to tell impactful stories.</h3>
 
-I'm an Economics graduate with a strong foundation in data analysis and currently pursuing a master's degree to further specialize in this field. My expertise lies in transforming complex data into actionable insights and applying analytical skills to real-world challenges. I am passionate about leveraging data to drive informed decisions and solve meaningful problems. Additionally, I have a keen interest in AI and machine learning, and I'm eager to explore how these technologies can be integrated into data-driven solutions. Follow my GitHub to see my projects and contributions in data analysis, AI, and machine learning.
+A data enthusiast passionate about transforming raw data into actionable insights. With a background in Economics and a strong foundation in data analysis, I specialize in applying analytical thinking to real-world challenges in finance, prediction, and forecasting.
+
+I enjoy solving problems through data storytelling and intelligent decision-making. My interests lie at the intersection of analytics, finance, machine learning, and time series forecasting — and how they can be combined to create powerful, data-driven solutions.
 
 
 
