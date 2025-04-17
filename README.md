@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Akash Dutta</h1>
-<h3>A data enthusiast who thrives on exploring data, building powerful predictive models, and deriving actionable insights to tell impactful stories.</h3>
+<h1 align="center">Hi 👋, I'm Akash Dutta</h1>
+<h3 align="center">A data enthusiast who thrives on exploring data, building powerful predictive models, and deriving actionable insights to tell impactful stories.</h3>
 
 <p>
 A data enthusiast passionate about transforming raw data into actionable insights. With a background in Economics and a strong foundation in data analysis, I specialize in applying analytical thinking to real-world challenges in finance, prediction, and forecasting.<br><br>
@@ -62,4 +62,3 @@ I enjoy solving problems through data storytelling and intelligent decision-maki
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40"/>
   </a>
 </p>
-
