@@ -45,7 +45,7 @@ I enjoy solving problems through data storytelling and intelligent decision-maki
 
 <h3 align="left">📈 GitHub Stats</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akasshdutta4840&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akash-Dutta07&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
 </p>
 
 ---
