@@ -43,12 +43,19 @@ I enjoy solving problems through data storytelling and intelligent decision-maki
 
 ---
 
+<h3 align="left">📈 GitHub Stats</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akasshdutta4840&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
+</p>
+
+---
+
 <h3 align="left">📫 Connect with me</h3>
 <p align="left">
   <a href="https://linkedin.com/in/a-dutta-1b72132b8" target="blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="mailto:akashdutta4840@gmail.com">
+  <a href="mailto:akasshdutta4840@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40"/>
   </a>
 </p>
