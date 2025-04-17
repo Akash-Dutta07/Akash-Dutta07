@@ -27,8 +27,8 @@ I enjoy solving problems through data storytelling and intelligent decision-maki
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" alt="Plotly" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Plotly-logo.png" alt="Plotly" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/>
 </p>
 
 <h3 align="center">🛠️ Tools & Platforms</h3>
@@ -49,9 +49,6 @@ I enjoy solving problems through data storytelling and intelligent decision-maki
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akash-Dutta07&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-Dutta07&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
