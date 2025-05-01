@@ -56,6 +56,12 @@ I enjoy solving problems through data storytelling and intelligent decision-maki
     Understanding Neural Networks: A Beginner’s Guide</a></strong><br>
     A simplified walkthrough of ANN, MLP, CNN, and RNN architectures — ideal for newcomers to deep learning.
   </li>
+  <br>
+  <li>
+    <strong>🌐 <a href="https://medium.com/@aadutta7" target="_blank">
+    View all articles on my Medium profile</a></strong><br>
+    Explore more posts, guides, and tutorials I've written.
+  </li>
 </ul>
 
 ---
