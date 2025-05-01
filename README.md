@@ -43,6 +43,23 @@ I enjoy solving problems through data storytelling and intelligent decision-maki
 
 ---
 
+<h3>📚 Featured Blogs</h3>
+<ul>
+  <li>
+    <strong>📌 <a href="https://medium.com/@aadutta7/the-intersection-of-feature-selection-and-econometrics-crafting-accurate-models-2f6c27f4afa3" target="_blank">
+    The Intersection of Feature Selection and Econometrics</a></strong><br>
+    How classical econometrics principles can enhance machine learning model selection and accuracy.
+  </li>
+  <br>
+  <li>
+    <strong>📌 <a href="https://medium.com/@aadutta7/understanding-neural-networks-a-beginners-guide-to-ann-mlp-cnn-and-rnn-e2f3f91c9f4a" target="_blank">
+    Understanding Neural Networks: A Beginner’s Guide</a></strong><br>
+    A simplified walkthrough of ANN, MLP, CNN, and RNN architectures — ideal for newcomers to deep learning.
+  </li>
+</ul>
+
+---
+
 <h3>📈 GitHub Stats</h3>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Akash-Dutta07&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -60,5 +77,8 @@ I enjoy solving problems through data storytelling and intelligent decision-maki
   </a>
   <a href="mailto:akasshdutta4840@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40"/>
+  </a>
+  <a href="https://medium.com/@aadutta7" target="blank">
+    <img src="https://img.icons8.com/color/48/000000/medium-monogram.png" alt="Medium" width="40" height="40"/>
   </a>
 </p>
